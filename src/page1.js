@@ -5,7 +5,7 @@ function Page1() {
   return (
     <div>
  pag1
- <img src="/SSR.png"/>
+ <img src="/react-git1/SSR.PNG"/>
     </div>
   );
 }
