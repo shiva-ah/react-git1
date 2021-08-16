@@ -5,7 +5,7 @@ function Home() {
   return (
     <div>
   Home
-  <img src={![]("/logo512.png")}/>
+  <img src="./logo512.png"/>
   <br/> <br/> <br/>
    
   </div>
